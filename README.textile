@@ -1,0 +1,11 @@
+h1. molly.vim
+
+p. ZOMG! Very fast and sexy textmate-like command-t plugin. It also works for regular vim. By default it caches the filelist, so if you add a new file you have to call the `RefreshFileList` function.
+
+h2. Dependencies
+
+p. The only dependency `molly` needs is the unix `find` command.
+
+h2. Getting Started
+
+p. By default it uses `Leader Key + x` but you can change it to whatever you want.
